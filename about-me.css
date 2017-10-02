@@ -1,0 +1,21 @@
+.img-fluid{
+  width:200px;
+  height: 200px;
+}
+#profilepicture{
+  border-radius: 50%;
+  width:200px;
+  height: 200px;
+}
+
+.list-inline-item{
+  font-family: FontAwesome;
+}
+
+body{
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
